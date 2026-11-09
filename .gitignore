@@ -1,3 +1,10 @@
+# Credentials & Environment Variables
+.env
+.env.local
+*.pem
+*.key
+credentials.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
